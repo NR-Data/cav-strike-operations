@@ -1,0 +1,106 @@
+{
+  "catalogue": {
+    "name": "Mercenary/Pirate/Independent",
+    "id": "9c33-64ab-9927-c143",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "1c60-fd57-cb2f-e952",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "catalogueLinks": [
+      {"name": "Adon", "id": "c60b-2c31-6f56-cd55", "targetId": "089f-cb52-ea5c-b448", "type": "catalogue"},
+      {"name": "Almirithil", "id": "eae5-4c80-0e95-0d9a", "targetId": "240e-41ef-b571-2e40", "type": "catalogue"},
+      {"name": "Malvernis", "id": "fc63-9e81-5d00-42dd", "targetId": "5432-fafd-a759-1f95", "type": "catalogue"},
+      {"name": "Rach", "id": "e030-9f74-41d0-6efc", "targetId": "5eda-6e85-6e3a-0059", "type": "catalogue"},
+      {"name": "Ritterlich", "id": "9aa0-f7f1-1210-bf91", "targetId": "2e9e-a2a9-29e3-e7f5", "type": "catalogue"},
+      {"name": "Templar", "id": "8c7e-f1dc-6965-dc37", "targetId": "fb07-a5b5-755d-c205", "type": "catalogue"},
+      {"name": "Terran", "id": "84b3-8a48-d7e9-6c45", "targetId": "3713-e893-933c-28d4", "type": "catalogue"}
+    ],
+    "entryLinks": [
+      {
+        "name": "Ammit (Vehicle)",
+        "id": "0417-7c06-cbf0-5465",
+        "collective": false,
+        "hidden": false,
+        "targetId": "38e2-8c37-6172-9406",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "32dc-323d-b260-3f82", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "Vehicle", "id": "2690-d5ae-df07-fe41", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Anhur (CAV)",
+        "id": "d64d-12f3-8237-77a1",
+        "collective": false,
+        "hidden": false,
+        "targetId": "3c15-7539-fb82-f35d",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7a4d-1fbc-77ce-7c11", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "6eb3-da6c-3961-79f0", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Horus (Vehicle)",
+        "id": "0941-d2ec-6fac-4073",
+        "collective": false,
+        "hidden": false,
+        "targetId": "c57e-892e-ad46-0d92",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "2240-952c-0a52-1cac", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "bf6b-aa48-62f7-8d26", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Serket (CAV)",
+        "id": "86f3-b958-ae56-18fb",
+        "collective": false,
+        "hidden": false,
+        "targetId": "a40d-af4b-8afd-cdd0",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "cb8c-132a-d1a9-62e7", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "2409-f21c-4744-8579", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Ammit (Vehicle)",
+        "id": "38e2-8c37-6172-9406",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 169}]
+      },
+      {
+        "name": "Anhur (CAV)",
+        "id": "3c15-7539-fb82-f35d",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 355}]
+      },
+      {
+        "name": "Horus (Vehicle)",
+        "id": "c57e-892e-ad46-0d92",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 169}]
+      },
+      {
+        "name": "Serket (CAV)",
+        "id": "a40d-af4b-8afd-cdd0",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 160}]
+      }
+    ]
+  }
+}
