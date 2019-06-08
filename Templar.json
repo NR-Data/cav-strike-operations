@@ -1,0 +1,561 @@
+{
+  "catalogue": {
+    "name": "Templar",
+    "id": "fb07-a5b5-755d-c205",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "1c60-fd57-cb2f-e952",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Ballista (CAV)",
+        "id": "d126-abfd-b3c5-fd07",
+        "collective": false,
+        "hidden": false,
+        "targetId": "bd2d-b85c-9820-dda6",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "1866-439e-3662-af96", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "7257-b357-16c8-96d7", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Centurion",
+        "id": "f830-c6e0-8551-917a",
+        "collective": false,
+        "hidden": false,
+        "targetId": "d6b8-3a04-9b3d-3c70",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7f2d-73f3-9076-c295", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "6cb4-becf-4e0a-4aca", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Charger (Vehicle)",
+        "id": "ec39-71b2-11fd-a5b0",
+        "collective": false,
+        "hidden": false,
+        "targetId": "674a-2d31-0422-3594",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8480-8d43-3a9b-8c24", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Vehicle", "id": "9a0e-c87f-07a0-e009", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Charger (Vehicle)",
+        "id": "e0bd-fbc5-32b5-5c4d",
+        "collective": false,
+        "hidden": false,
+        "targetId": "674a-2d31-0422-3594",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "c3d8-307b-24ea-0a75", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Vehicle", "id": "a44a-8d80-f041-f838", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Claymore (CAV)",
+        "id": "8c35-04ee-ddf5-59c6",
+        "collective": false,
+        "hidden": false,
+        "targetId": "382c-326d-8471-5bbf",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "c866-911b-d4d6-5a90", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "3738-ca52-f644-e4fd", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Crossbow (Attack)",
+        "id": "1b85-840e-2746-d3c7",
+        "collective": false,
+        "hidden": false,
+        "targetId": "2bd6-f42e-ec0e-e3df",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "c5e1-0c3d-54f7-63d2", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "6826-3939-dba3-95b2", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ]
+      },
+      {
+        "name": "Crusader (CAV)",
+        "id": "62c8-dcd8-2b6c-9824",
+        "collective": false,
+        "hidden": false,
+        "targetId": "3aed-66b5-5ee6-1a44",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "92a9-c5ab-2296-ff82", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "0757-602c-8ecc-c623", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Destrier (Vehicle)",
+        "id": "88e8-937b-0a8b-49ea",
+        "collective": false,
+        "hidden": false,
+        "targetId": "7577-fb4e-9b45-11c2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "85e4-1442-e5ac-c5a9", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Vehicle", "id": "f44f-bce9-176a-c8bd", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Destrier (Vehicle)",
+        "id": "f6f1-71d8-ced5-21fe",
+        "collective": false,
+        "hidden": false,
+        "targetId": "7577-fb4e-9b45-11c2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "0575-0afc-de16-4bd7", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Vehicle", "id": "f247-9267-00ec-d3c6", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Duelist (CAV)",
+        "id": "6e49-f50a-35f9-d85f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "d653-00c2-ae2c-6284",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "75ae-dd49-869c-3b2f", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "505a-fcc8-a7d1-5ce1", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Flail (Vehicle)",
+        "id": "dcde-e748-939d-0689",
+        "collective": false,
+        "hidden": false,
+        "targetId": "ef85-e4d5-58dd-334e",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "29d4-eb9c-318c-05f9", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "Vehicle", "id": "0e03-b9f4-7ffd-7e75", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Gladiator II (CAV)",
+        "id": "72be-0c38-879a-69b7",
+        "collective": false,
+        "hidden": false,
+        "targetId": "2166-de03-a81c-cfc2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "658e-5e38-00be-c8bd", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "249d-4428-b7ca-7ec8", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Halberd (CAV)",
+        "id": "4fca-291c-e483-af7f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "861d-06db-3680-dc55",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "40c0-b6dd-3240-867d", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "4ed7-31ca-1e54-96f5", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Knight (CAV)",
+        "id": "6d8a-6b7c-78d4-7bce",
+        "collective": false,
+        "hidden": false,
+        "targetId": "04e0-c1b4-00ac-460a",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "fde0-6eaa-593c-bcc1", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "30b0-5a9e-6e75-e930", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Lance (Vehicle)",
+        "id": "98a4-caf6-1a19-f210",
+        "collective": false,
+        "hidden": false,
+        "targetId": "168e-f326-1e21-e180",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8fe8-c7cf-a417-b841", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "87b1-b2a3-c024-c918", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Longbow (Attack)",
+        "id": "b00e-0ad5-b0fe-43e3",
+        "collective": false,
+        "hidden": false,
+        "targetId": "53e1-a21b-544a-6733",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7219-1e45-3d67-fe2e", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "56bc-aeeb-cb9d-f482", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ]
+      },
+      {
+        "name": "Mamba (Vehicle)",
+        "id": "5e66-7207-a892-8ffe",
+        "collective": false,
+        "hidden": false,
+        "targetId": "b8bd-b7d2-052d-017b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "caf9-c0c4-4c1d-110d", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"},
+          {"name": "Vehicle", "id": "8acf-5142-51a6-b2a9", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Rapier (CAV)",
+        "id": "029e-d1ea-90c2-aa98",
+        "collective": false,
+        "hidden": false,
+        "targetId": "d4f9-1ce5-c6b5-9aa6",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "e9df-8441-ea4c-bfc4", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "6343-b854-d78f-a2b2", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Sabre (Vehicle)",
+        "id": "de0d-5243-e1d4-c388",
+        "collective": false,
+        "hidden": false,
+        "targetId": "3349-fa97-8682-505f",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "9ed2-593c-e3dc-eee3", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"},
+          {"name": "Vehicle", "id": "e403-3ddf-4c39-4da6", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Sovereign III (CAV)",
+        "id": "5d18-de8e-b1c6-65ec",
+        "collective": false,
+        "hidden": false,
+        "targetId": "af33-edd4-7f6e-13c4",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "5881-e63a-8aa4-ba89", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "74f1-8e72-0c96-95af", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"}
+        ]
+      },
+      {
+        "name": "Spartan (CAV)",
+        "id": "6c28-ebcc-7340-400a",
+        "collective": false,
+        "hidden": false,
+        "targetId": "7521-f328-24f1-5d81",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "70e9-1ce2-98a4-5ad9", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "a493-1b96-e562-a6ce", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Spatha (Vehicle)",
+        "id": "fc64-b739-c440-35bb",
+        "collective": false,
+        "hidden": false,
+        "targetId": "0051-7d68-2c95-b0ff",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "ff8c-d00c-8e5f-bfdf", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "9fb7-3a2b-1ea8-a1ec", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Stiletto (Vehicle)",
+        "id": "ea46-6b1d-2280-5430",
+        "collective": false,
+        "hidden": false,
+        "targetId": "b36c-c381-e1d0-4bb4",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "e2b8-faa8-c71b-0898", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "Vehicle", "id": "c3e2-0900-74f9-8222", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Tomahawk (CAV)",
+        "id": "86b0-4a7c-018c-3fa2",
+        "collective": false,
+        "hidden": false,
+        "targetId": "0ebe-e178-4432-0bcc",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8fb2-0fd5-a8da-3b35", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "09c1-69cc-818a-e9f1", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Trebuchet (CAV)",
+        "id": "d0f5-0c29-2c4e-da83",
+        "collective": false,
+        "hidden": false,
+        "targetId": "0bd0-f542-1634-367b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "0f18-e6ac-a756-779a", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "470d-5eea-4eae-9aa9", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Warhammer (CAV)",
+        "id": "9890-8477-be45-f6b6",
+        "collective": false,
+        "hidden": false,
+        "targetId": "9ee5-35fa-f338-180b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "665c-9d71-0932-0836", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "3790-a4a9-46e3-6015", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Warhawk (CAV)",
+        "id": "f74f-2896-014c-6bdd",
+        "collective": false,
+        "hidden": false,
+        "targetId": "b478-f354-e8c0-68b1",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7c48-d355-7a78-8d2a", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "3a47-6bfe-e2f3-8ddf", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Warlord (CAV)",
+        "id": "f3ab-898f-80e0-8ed3",
+        "collective": false,
+        "hidden": false,
+        "targetId": "70f1-0854-88d5-3f98",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "4c62-6b17-f071-2289", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "f5b4-7047-44d9-aed9", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Ballista (CAV)",
+        "id": "bd2d-b85c-9820-dda6",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 517}]
+      },
+      {
+        "name": "Centurion (CAV)",
+        "id": "d6b8-3a04-9b3d-3c70",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 1240}]
+      },
+      {
+        "name": "Charger (Vehicle)",
+        "id": "674a-2d31-0422-3594",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 129}]
+      },
+      {
+        "name": "Claymore (CAV)",
+        "id": "382c-326d-8471-5bbf",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 361}]
+      },
+      {
+        "name": "Crossbow (Attack)",
+        "id": "2bd6-f42e-ec0e-e3df",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 233}]
+      },
+      {
+        "name": "Crusader (CAV)",
+        "id": "3aed-66b5-5ee6-1a44",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 560}]
+      },
+      {
+        "name": "Destrier (Vehicle)",
+        "id": "7577-fb4e-9b45-11c2",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 135}]
+      },
+      {
+        "name": "Duelist (CAV)",
+        "id": "d653-00c2-ae2c-6284",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 639}]
+      },
+      {
+        "name": "Flail (Vehicle)",
+        "id": "ef85-e4d5-58dd-334e",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 402}]
+      },
+      {
+        "name": "Gladiator II (CAV)",
+        "id": "2166-de03-a81c-cfc2",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 412}]
+      },
+      {
+        "name": "Halberd (CAV)",
+        "id": "861d-06db-3680-dc55",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 665}]
+      },
+      {
+        "name": "Knight (CAV)",
+        "id": "04e0-c1b4-00ac-460a",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 512}]
+      },
+      {
+        "name": "Lance (Vehicle)",
+        "id": "168e-f326-1e21-e180",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 398}]
+      },
+      {
+        "name": "Longbow (Attack)",
+        "id": "53e1-a21b-544a-6733",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 116}]
+      },
+      {
+        "name": "Mamba (Vehicle)",
+        "id": "b8bd-b7d2-052d-017b",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 121}]
+      },
+      {
+        "name": "Rapier (CAV)",
+        "id": "d4f9-1ce5-c6b5-9aa6",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 345}]
+      },
+      {
+        "name": "Sabre (Vehicle)",
+        "id": "3349-fa97-8682-505f",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 143}]
+      },
+      {
+        "name": "Sovereign III (CAV)",
+        "id": "af33-edd4-7f6e-13c4",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 389}]
+      },
+      {
+        "name": "Spartan (CAV)",
+        "id": "7521-f328-24f1-5d81",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 207}]
+      },
+      {
+        "name": "Spatha (Vehicle)",
+        "id": "0051-7d68-2c95-b0ff",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 459}]
+      },
+      {
+        "name": "Stiletto (Vehicle)",
+        "id": "b36c-c381-e1d0-4bb4",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 71}]
+      },
+      {
+        "name": "Tomahawk (CAV)",
+        "id": "0ebe-e178-4432-0bcc",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 647}]
+      },
+      {
+        "name": "Trebuchet (CAV)",
+        "id": "0bd0-f542-1634-367b",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 895}]
+      },
+      {
+        "name": "Warhammer (CAV)",
+        "id": "9ee5-35fa-f338-180b",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 791}]
+      },
+      {
+        "name": "Warhawk (CAV)",
+        "id": "b478-f354-e8c0-68b1",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 529}]
+      },
+      {
+        "name": "Warlord (CAV)",
+        "id": "70f1-0854-88d5-3f98",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 725}]
+      }
+    ]
+  }
+}
