@@ -1,0 +1,1484 @@
+{
+  "catalogue": {
+    "name": "Almirithil",
+    "id": "240e-41ef-b571-2e40",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "1c60-fd57-cb2f-e952",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 2,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "catalogueLinks": [{"name": "Ritterlich-data", "id": "2b1f-b194-474e-aa09", "targetId": "2e9e-a2a9-29e3-e7f5", "type": "catalogue"}],
+    "entryLinks": [
+      {
+        "name": "Armada (Vehicle)",
+        "id": "dee0-ab0a-babc-ffe7",
+        "collective": false,
+        "hidden": false,
+        "targetId": "29cd-209f-90d0-410e",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "342b-daa5-9988-08f2", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "076f-b42e-44b2-4e3d", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Bear (CAV)",
+        "id": "90bd-a078-3e26-1cb8",
+        "collective": false,
+        "hidden": false,
+        "targetId": "0f76-7eb7-60da-c770",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "6084-e474-1e51-7690", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "37c3-e5ec-738c-5760", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Bruin (CAV)",
+        "id": "d910-9ff4-ffb1-beab",
+        "collective": false,
+        "hidden": false,
+        "targetId": "fab0-86fe-0ed9-19d1",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "dc41-5d78-ae76-494f", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "3ae6-c79d-d297-61a0", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Cobra (CAV)",
+        "id": "f2c5-912e-93f9-f508",
+        "collective": false,
+        "hidden": false,
+        "targetId": "a7b7-dba6-c7ef-6d0c",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "16be-085f-1953-470d", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "a2f5-e117-6bed-634a", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Concussion (CAV)",
+        "id": "a82c-e3a4-9e63-fc0f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "8ef2-03c6-8fd9-3368",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "f927-6304-981d-3865", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "9ceb-8270-78b5-3c8d", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Cossack (Vehicle)",
+        "id": "5ee7-3842-b0cf-a18e",
+        "collective": false,
+        "hidden": false,
+        "targetId": "3e1e-b7a0-21c1-67ed",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "fc11-7cbc-43c6-cdb8", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "86a6-49e6-ae67-4733", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Fencer (Attack)",
+        "id": "a300-9ed1-65f3-e4dc",
+        "collective": false,
+        "hidden": false,
+        "targetId": "181d-44b2-8af2-aa75",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "841f-00a8-f739-cf89", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "ef3a-5ec8-62b2-d7f2", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ]
+      },
+      {
+        "name": "Fulcrum (Transport)",
+        "id": "c00f-7975-3fc6-e2e4",
+        "collective": false,
+        "hidden": false,
+        "targetId": "55c8-b39b-db8f-9813",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "3570-246e-81a2-5f8b", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Aircraft", "id": "d355-ec2e-eaff-9190", "hidden": false, "primary": false, "targetId": "ff2a-fd2f-1e39-3883"}
+        ]
+      },
+      {
+        "name": "Fulcrum (Transport)",
+        "id": "9754-be2e-868b-43f9",
+        "collective": false,
+        "hidden": false,
+        "targetId": "55c8-b39b-db8f-9813",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "a327-5dcb-d1c4-e9d4", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Aircraft", "id": "0132-3f5b-d447-c5e8", "hidden": false, "primary": false, "targetId": "ff2a-fd2f-1e39-3883"}
+        ]
+      },
+      {
+        "name": "Grizzly (CAV)",
+        "id": "e905-3ff7-03b1-d449",
+        "collective": false,
+        "hidden": false,
+        "targetId": "cb47-6ed5-a766-be50",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "9672-f95f-54e2-91cf", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "5b49-b227-2927-ddc3", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Growler (CAV)",
+        "id": "ff34-13d5-0fca-736f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "a51c-9eb3-840c-9e87",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "e0bb-822c-8a01-99dc", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "b90d-93c1-587f-d254", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Hind (Attack)",
+        "id": "f840-035e-6e3c-0dbf",
+        "collective": false,
+        "hidden": false,
+        "targetId": "201b-84af-1470-4b82",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7318-67dd-69d4-f6ea", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "af45-bd7e-9143-ae44", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ]
+      },
+      {
+        "name": "Hound (Vehicle)",
+        "id": "74f3-3c17-d228-512f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "9cbc-dae9-d4dc-7cec",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7528-898c-8665-5d83", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"},
+          {"name": "Vehicle", "id": "29e0-43ca-70f5-5ff7", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "King Cobra (CAV)",
+        "id": "8746-592e-048e-f3b0",
+        "collective": false,
+        "hidden": false,
+        "targetId": "59f8-a409-bf92-63e9",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "6b56-2e6a-f475-60cd", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "ca87-257b-eab5-b96a", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ]
+      },
+      {
+        "name": "Kodiak (CAV)",
+        "id": "936a-7e90-1564-2ea4",
+        "collective": false,
+        "hidden": false,
+        "targetId": "739a-38cf-0186-e13b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "e877-8a36-d1a7-1bd5", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "34d8-c797-c62e-7be6", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Mongol (Vehicle)",
+        "id": "6f5b-62d0-2b1f-cd30",
+        "collective": false,
+        "hidden": false,
+        "targetId": "5c9c-8ae2-7b32-e118",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "939d-ea47-2a16-e2a6", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Vehicle", "id": "85c2-56bf-4147-76b7", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Mongol (Vehicle)",
+        "id": "9e61-4531-7017-1be4",
+        "collective": false,
+        "hidden": false,
+        "targetId": "5c9c-8ae2-7b32-e118",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7b81-a300-e520-1b08", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Vehicle", "id": "3628-f1b7-9c8e-0d3d", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ]
+      },
+      {
+        "name": "Sunder (CAV)",
+        "id": "232d-96d3-3d63-4a57",
+        "collective": false,
+        "hidden": false,
+        "targetId": "3533-1c80-5269-e266",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "0708-92f3-e3fa-4275", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "6868-2a03-f2dc-5423", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ]
+      },
+      {
+        "name": "Armadillo (Vehicle)",
+        "id": "c319-8cc6-0bda-a4f1",
+        "collective": false,
+        "hidden": true,
+        "targetId": "6bfe-2bad-246e-0938",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "e93d-1841-9e23-02fa", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Vehicle", "id": "926a-d95c-ea19-c64b", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Armadillo (Vehicle)",
+        "id": "8d8c-649e-c4d8-f650",
+        "collective": false,
+        "hidden": true,
+        "targetId": "6bfe-2bad-246e-0938",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "6e45-5113-06f3-74f1", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Vehicle", "id": "ca78-4fc4-d7a5-a2b3", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cataphract (CAV)",
+        "id": "03b3-fd93-beec-b805",
+        "collective": false,
+        "hidden": true,
+        "targetId": "14e8-c171-0acc-0eb6",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8696-b7cb-e67f-442c", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "996a-abd0-5a81-7c5e", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Avenger (Attack)",
+        "id": "271f-3df5-33a0-309b",
+        "collective": false,
+        "hidden": true,
+        "targetId": "5a37-5dc3-202b-e9f6",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "47f5-9570-cab0-5b47", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "ecd6-d9ce-6a6d-5d2a", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Blitz (CAV)",
+        "id": "0895-5b14-3cf7-5d61",
+        "collective": false,
+        "hidden": true,
+        "targetId": "3897-a8e9-cff9-5903",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "d2b4-3fac-581d-c416", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "74b0-542c-0bb0-f414", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Catamount (CAV)",
+        "id": "3ccc-8763-c0c0-da5d",
+        "collective": false,
+        "hidden": true,
+        "targetId": "503b-34b8-3157-cb10",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "a304-6b25-750b-8057", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "4d47-961f-e46f-e52f", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cheetah (CAV)",
+        "id": "4b0d-f725-d024-21a0",
+        "collective": false,
+        "hidden": true,
+        "targetId": "eb82-0f70-7190-6ed4",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "e476-6cb9-29d0-671c", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "3a35-46b5-aceb-344f", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cougar (CAV)",
+        "id": "2847-a1f7-2c3e-0d69",
+        "collective": false,
+        "hidden": true,
+        "targetId": "78f0-ce28-c565-7dec",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "31cd-d8ec-68d4-daef", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "eea6-fe84-1d36-7e0f", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cougar II (CAV)",
+        "id": "77ee-950d-4791-2a09",
+        "collective": false,
+        "hidden": true,
+        "targetId": "25c1-000d-1422-1070",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8d93-669c-01dc-2741", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "c0a8-aab9-0c4d-127a", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Griffin (CAV)",
+        "id": "6301-fbb3-d6b6-b97a",
+        "collective": false,
+        "hidden": true,
+        "targetId": "489f-f925-8584-c1d6",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "9838-270a-651e-f27d", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "ddb4-a698-0cf9-4581", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jaguar (CAV)",
+        "id": "221d-b548-37af-c9d8",
+        "collective": false,
+        "hidden": true,
+        "targetId": "58a6-677b-5a21-be2a",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "efbd-08cd-25f9-0fcf", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "d447-7410-0355-69e6", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leopard (CAV)",
+        "id": "9a50-2a28-6aa4-0b53",
+        "collective": false,
+        "hidden": true,
+        "targetId": "6217-f6f3-f15e-12a1",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "d0bc-4213-1a0f-9e67", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "b207-15eb-de15-957f", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lion II (Vehicle)",
+        "id": "322a-805d-81f3-9d18",
+        "collective": false,
+        "hidden": true,
+        "targetId": "2bdf-7aa1-ad17-684d",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "36b2-8211-3c3e-d09c", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "8144-cfa7-c615-39f2", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lukas (Vehicle)",
+        "id": "e7e1-e62b-b01a-4295",
+        "collective": false,
+        "hidden": true,
+        "targetId": "f29a-2962-013b-4cc3",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "e85d-20ee-0a7f-4e9b", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Vehicle", "id": "d50f-8922-17d2-9733", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lukas (Vehicle)",
+        "id": "a15a-7b64-6f82-4249",
+        "collective": false,
+        "hidden": true,
+        "targetId": "f29a-2962-013b-4cc3",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "a1b3-d0c5-5a20-5c17", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Vehicle", "id": "df50-b7cf-e3b4-0f22", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lynx (Transport)",
+        "id": "fbbd-5076-4b4f-1902",
+        "collective": false,
+        "hidden": true,
+        "targetId": "53aa-7219-7db4-afe2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "d3b9-c262-5420-e6c6", "hidden": false, "primary": true, "targetId": "1d06-4927-dd43-4a3a"},
+          {"name": "Aircraft", "id": "1600-616a-18a4-9f02", "hidden": false, "primary": false, "targetId": "ff2a-fd2f-1e39-3883"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lynx (Transport)",
+        "id": "4965-6726-7d79-51c4",
+        "collective": false,
+        "hidden": true,
+        "targetId": "53aa-7219-7db4-afe2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "691b-53f8-343b-7c27", "hidden": false, "primary": true, "targetId": "af15-a901-2d26-266b"},
+          {"name": "Aircraft", "id": "656b-9472-707d-764d", "hidden": false, "primary": false, "targetId": "ff2a-fd2f-1e39-3883"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Manticore (Vehicle)",
+        "id": "c5b5-1b90-5f4e-7335",
+        "collective": false,
+        "hidden": true,
+        "targetId": "c21a-21e1-45dd-a4d4",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "1da5-2d3e-0d4f-aab9", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "Vehicle", "id": "764d-2948-7624-930d", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mastodon (CAV)",
+        "id": "9b89-3b4c-d27b-b8a5",
+        "collective": false,
+        "hidden": true,
+        "targetId": "a771-78b1-1fe1-d210",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "09fc-030c-0e1e-8daf", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "115d-8f61-5dda-3dcc", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ocelot (CAV)",
+        "id": "64cf-07eb-cba2-3b17",
+        "collective": false,
+        "hidden": true,
+        "targetId": "d490-14b5-d25b-4cf3",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7f19-a421-e6a0-67e3", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "ddb4-bc0f-92d5-c859", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Panther (CAV)",
+        "id": "837c-e64a-c935-e109",
+        "collective": false,
+        "hidden": true,
+        "targetId": "9418-15ec-e443-ccb2",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "8509-e952-5b6b-efc2", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "9d23-5b42-f6b5-22a3", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Panther II (CAV)",
+        "id": "2a57-db82-7cf5-bad0",
+        "collective": false,
+        "hidden": true,
+        "targetId": "f534-f381-ce95-3361",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "2ea0-fd4e-bb23-8cb2", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "5aca-01c8-be7c-bb59", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Puma (CAV)",
+        "id": "2ff3-0aef-d6c1-8ff7",
+        "collective": false,
+        "hidden": true,
+        "targetId": "5de5-4eca-ee36-2acf",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "5d56-48c4-5153-5d34", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "b6d1-f515-580c-f175", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rhino (CAV)",
+        "id": "24c1-9348-245c-ee25",
+        "collective": false,
+        "hidden": true,
+        "targetId": "cc4a-dda9-0da1-3d1e",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "669a-8e4e-fd51-ae27", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "4ae6-d1d4-aa45-3dfe", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rhino II (CAV)",
+        "id": "67fb-9b05-25d7-4df0",
+        "collective": false,
+        "hidden": true,
+        "targetId": "9864-c83c-e529-38ea",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "6be8-5b32-4267-4520", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "bf92-e982-8418-852e", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rudegern (Vehicle)",
+        "id": "a345-52d6-f155-13d5",
+        "collective": false,
+        "hidden": true,
+        "targetId": "08a9-4808-1c73-8c86",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "ba10-a649-d38c-dc67", "hidden": false, "primary": true, "targetId": "3bd6-9cfb-0450-720a"},
+          {"name": "Vehicle", "id": "7fdc-1be6-fb39-6931", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sabertooth (CAV)",
+        "id": "abac-b7e9-cde3-b5fb",
+        "collective": false,
+        "hidden": true,
+        "targetId": "bc9f-3983-03f6-6de3",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7f70-1203-3f98-b46b", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "6fed-8b82-7cd7-71d3", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Silverback (CAV)",
+        "id": "0533-0345-eb23-efe8",
+        "collective": false,
+        "hidden": true,
+        "targetId": "3f02-a8a5-b8fd-5adb",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "ee1d-e176-cedb-9f7b", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "ca53-30f8-318f-b95d", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tiamat (CAV)",
+        "id": "65e1-d816-0655-2721",
+        "collective": false,
+        "hidden": true,
+        "targetId": "fdb6-3595-b4f1-a2ad",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "fabd-ef12-46be-46c3", "hidden": false, "primary": true, "targetId": "d80e-15e1-8dc2-904e"},
+          {"name": "CAV", "id": "6ece-a83d-3427-125f", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tiger (CAV)",
+        "id": "8b62-546c-bb9f-5c13",
+        "collective": false,
+        "hidden": true,
+        "targetId": "4682-cc7b-e0fd-033a",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "64f8-462b-6fbb-25c8", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "dac4-d03a-b88b-31ed", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Typhoon (Attack)",
+        "id": "73d7-5f15-e7d5-ccae",
+        "collective": false,
+        "hidden": true,
+        "targetId": "a534-62d6-548a-dd90",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "57ae-e34a-4c1c-51ad", "hidden": false, "primary": true, "targetId": "ff2a-fd2f-1e39-3883"},
+          {"name": "Attack", "id": "8ff1-fa39-38cf-f091", "hidden": false, "primary": false, "targetId": "a048-f5b2-4a14-b181"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wolverine (Vehicle)",
+        "id": "bd32-ae00-2aa7-c790",
+        "collective": false,
+        "hidden": true,
+        "targetId": "57e6-d1e4-871e-6bbc",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7733-5a67-ae1e-3619", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "6e6f-7e29-c7ea-afeb", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lion (Vehicle)",
+        "id": "3ee9-9b52-362f-c1b1",
+        "collective": false,
+        "hidden": true,
+        "targetId": "5185-2997-e987-013c",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "9fb6-0a08-a995-109a", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Vehicle", "id": "0da8-ec1e-d8ff-160b", "hidden": false, "primary": false, "targetId": "6246-d585-0ebf-f1e9"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "King Tiger (CAV)",
+        "id": "5ebd-36fb-72fd-d720",
+        "collective": false,
+        "hidden": true,
+        "targetId": "b029-70c4-3aff-a56b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "CAV", "id": "38d9-a651-cd1e-b816", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "New CategoryLink", "id": "93db-7bba-4f23-3c8a", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "Ritterlich", "id": "8e44-1a73-f3a3-0519", "hidden": false, "primary": false, "targetId": "df96-3ecd-ee57-a7c4"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tiger II (CAV)",
+        "id": "a91e-21b7-fc48-c636",
+        "collective": false,
+        "hidden": true,
+        "targetId": "2460-0348-16ec-4d64",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "fb08-ee04-5443-71fe", "hidden": false, "primary": true, "targetId": "a048-f5b2-4a14-b181"},
+          {"name": "CAV", "id": "96a7-0b87-631f-56d4", "hidden": false, "primary": false, "targetId": "4a66-075b-596e-0578"},
+          {"name": "Ritterlich", "id": "ed9b-1a5d-57dc-092d", "hidden": false, "primary": false, "targetId": "df96-3ecd-ee57-a7c4"}
+        ],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": false,
+            "conditions": [
+              {
+                "childId": "3de5-9c1d-2a20-ee31",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "force",
+                "shared": true,
+                "type": "atLeast",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Armada (Vehicle)",
+        "id": "29cd-209f-90d0-410e",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 431}]
+      },
+      {
+        "name": "Bear (CAV)",
+        "id": "0f76-7eb7-60da-c770",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 605}]
+      },
+      {
+        "name": "Bruin (CAV)",
+        "id": "fab0-86fe-0ed9-19d1",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 999}]
+      },
+      {
+        "name": "Cobra (CAV)",
+        "id": "a7b7-dba6-c7ef-6d0c",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 246}]
+      },
+      {
+        "name": "Concussion (CAV)",
+        "id": "8ef2-03c6-8fd9-3368",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 985}]
+      },
+      {
+        "name": "Cossack (Vehicle)",
+        "id": "3e1e-b7a0-21c1-67ed",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 294}]
+      },
+      {
+        "name": "Fencer (Attack)",
+        "id": "181d-44b2-8af2-aa75",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 196}]
+      },
+      {
+        "name": "Fulcrum (Transport)",
+        "id": "55c8-b39b-db8f-9813",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 192}]
+      },
+      {
+        "name": "Grizzly (CAV)",
+        "id": "cb47-6ed5-a766-be50",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 828}]
+      },
+      {
+        "name": "Growler (CAV)",
+        "id": "a51c-9eb3-840c-9e87",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 327}]
+      },
+      {
+        "name": "Hind (Attack)",
+        "id": "201b-84af-1470-4b82",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 290}]
+      },
+      {
+        "name": "Hound (Vehicle)",
+        "id": "9cbc-dae9-d4dc-7cec",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 172}]
+      },
+      {
+        "name": "King Cobra (CAV)",
+        "id": "59f8-a409-bf92-63e9",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 478}]
+      },
+      {
+        "name": "Kodiak (CAV)",
+        "id": "739a-38cf-0186-e13b",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 1065}]
+      },
+      {
+        "name": "Mongol (Vehicle)",
+        "id": "5c9c-8ae2-7b32-e118",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 250}]
+      },
+      {
+        "name": "Sunder (CAV)",
+        "id": "3533-1c80-5269-e266",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 421}]
+      }
+    ]
+  }
+}

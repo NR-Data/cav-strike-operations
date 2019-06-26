@@ -1,0 +1,271 @@
+{
+  "catalogue": {
+    "name": "Ritterlich-data",
+    "id": "2e9e-a2a9-29e3-e7f5",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "1c60-fd57-cb2f-e952",
+    "gameSystemRevision": 1,
+    "library": true,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "sharedSelectionEntries": [
+      {
+        "name": "Armadillo (Vehicle)",
+        "id": "6bfe-2bad-246e-0938",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 305}]
+      },
+      {
+        "name": "Avenger (Attack)",
+        "id": "5a37-5dc3-202b-e9f6",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 229}]
+      },
+      {
+        "name": "Blitz (CAV)",
+        "id": "3897-a8e9-cff9-5903",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 480}]
+      },
+      {
+        "name": "Catamount (CAV)",
+        "id": "503b-34b8-3157-cb10",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 441}]
+      },
+      {
+        "name": "Cataphract (CAV)",
+        "id": "14e8-c171-0acc-0eb6",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 620}]
+      },
+      {
+        "name": "Cheetah (CAV)",
+        "id": "eb82-0f70-7190-6ed4",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 588}]
+      },
+      {
+        "name": "Cougar (CAV)",
+        "id": "78f0-ce28-c565-7dec",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 215}]
+      },
+      {
+        "name": "Cougar II (CAV)",
+        "id": "25c1-000d-1422-1070",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 195}]
+      },
+      {
+        "name": "Griffin (CAV)",
+        "id": "489f-f925-8584-c1d6",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 446}]
+      },
+      {
+        "name": "Jaguar (CAV)",
+        "id": "58a6-677b-5a21-be2a",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 413}]
+      },
+      {
+        "name": "Leopard (CAV)",
+        "id": "6217-f6f3-f15e-12a1",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 334}]
+      },
+      {
+        "name": "Lion (Vehicle)",
+        "id": "5185-2997-e987-013c",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 355}]
+      },
+      {
+        "name": "Lion II (Vehicle)",
+        "id": "2bdf-7aa1-ad17-684d",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 368}]
+      },
+      {
+        "name": "Lukas (Vehicle)",
+        "id": "f29a-2962-013b-4cc3",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 128}]
+      },
+      {
+        "name": "Lynx (Transport)",
+        "id": "53aa-7219-7db4-afe2",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 193}]
+      },
+      {
+        "name": "Manticore (Vehicle)",
+        "id": "c21a-21e1-45dd-a4d4",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 368}]
+      },
+      {
+        "name": "Mastodon (CAV)",
+        "id": "a771-78b1-1fe1-d210",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 579}]
+      },
+      {
+        "name": "Ocelot (CAV)",
+        "id": "d490-14b5-d25b-4cf3",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 233}]
+      },
+      {
+        "name": "Panther (CAV)",
+        "id": "9418-15ec-e443-ccb2",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 209}]
+      },
+      {
+        "name": "Panther II (CAV)",
+        "id": "f534-f381-ce95-3361",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 306}]
+      },
+      {
+        "name": "Puma (CAV)",
+        "id": "5de5-4eca-ee36-2acf",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 129}]
+      },
+      {
+        "name": "Rhino (CAV)",
+        "id": "cc4a-dda9-0da1-3d1e",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 809}]
+      },
+      {
+        "name": "Rhino II (CAV)",
+        "id": "9864-c83c-e529-38ea",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 976}]
+      },
+      {
+        "name": "Rudegern (Vehicle)",
+        "id": "08a9-4808-1c73-8c86",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 110}]
+      },
+      {
+        "name": "Sabertooth (CAV)",
+        "id": "bc9f-3983-03f6-6de3",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 383}]
+      },
+      {
+        "name": "Silverback (CAV)",
+        "id": "3f02-a8a5-b8fd-5adb",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 705}]
+      },
+      {
+        "name": "Tiamat (CAV)",
+        "id": "fdb6-3595-b4f1-a2ad",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 779}]
+      },
+      {
+        "name": "Tiger (CAV)",
+        "id": "4682-cc7b-e0fd-033a",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 517}]
+      },
+      {
+        "name": "Typhoon (Attack)",
+        "id": "a534-62d6-548a-dd90",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 265}]
+      },
+      {
+        "name": "Wolverine (Vehicle)",
+        "id": "57e6-d1e4-871e-6bbc",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 375}]
+      },
+      {
+        "name": "Tiger II (CAV)",
+        "id": "2460-0348-16ec-4d64",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 528}]
+      },
+      {
+        "name": "King Tiger (CAV)",
+        "id": "b029-70c4-3aff-a56b",
+        "collective": false,
+        "hidden": false,
+        "type": "model",
+        "costs": [{"name": "TVP", "typeId": "c890-7a16-f974-2f7d", "value": 769}]
+      }
+    ]
+  }
+}
